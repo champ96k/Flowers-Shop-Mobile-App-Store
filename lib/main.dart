@@ -10,10 +10,10 @@ void main() {
     debugShowCheckedModeBanner: false, 
      initialRoute: '/',
           routes: {
-            '/': (context) => HomePage(), 
+            '/': (context) => HomePage(),  
             '/sellpage': (context) => SellHomeScreen(),
-            '/buypage': (context) => BuyHomeScreen(),
+            '/buypage': (context) => BuyHomeScreen(),            
           },
   )
  );
-}
+} 

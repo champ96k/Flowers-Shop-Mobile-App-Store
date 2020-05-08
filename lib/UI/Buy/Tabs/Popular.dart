@@ -19,12 +19,11 @@ class _PopularState extends State<Popular> {
         ]
       );
   }
-
+  
   @override
   Widget build(BuildContext context) {
     return Container(
-       height: MediaQuery.of(context).size.height/3,    
-      child: ListView(
+      child: ListView( 
         children: <Widget>[
           customBox(
               "Artificial potted Plants",

@@ -29,7 +29,7 @@ class _BuyHomeScreenState extends State<BuyHomeScreen>
         body: ListView(
           children: <Widget>[
             SizedBox(
-              height: totalHeight * 0.08,
+              height: totalHeight * 0.04,   
             ),
             Center(
               child: Text("Welcome in", style: ThemeText.smallTextwithGrey),
