@@ -1,6 +1,14 @@
-# Flowers Shop
+# Flowers Plant Shop
 
-A new Flutter project.
+Flutter Flowers Plant shop using Firebase
+
+
+
+
+### Screenshot
+
+
+![](https://i.imgur.com/S9dEtdE.png)
 
 #### Design Credit [Natan Jabłoński](https://dribbble.com/shots/11316448-Flowers-Shop-Mobile-App-Store)
 
