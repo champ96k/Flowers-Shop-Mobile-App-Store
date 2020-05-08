@@ -1,4 +1,4 @@
-# flowers_shop
+# Flowers Shop
 
 A new Flutter project.
 
